@@ -1,0 +1,32 @@
+* {
+    font-family: "Noto Sans Lao", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.about_img{
+    border: 7px solid orangered;
+    border-radius: 100%;
+}
+.bg__rowone{
+    background-image: url('../Assets/103.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text__header{
+    margin-top: 20%;
+    text-align: end;
+    font-size: 70px;
+    margin-bottom: 20%;
+}
+
+.img__two{
+    width: 70%;
+    border-radius: 20px;
+}
+.img_about{
+    width: 100%;
+    border-radius: 20px;
+}
